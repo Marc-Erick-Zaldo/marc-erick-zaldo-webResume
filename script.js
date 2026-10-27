@@ -85,7 +85,7 @@ const projects = [
         description: 'Ned’s Chair Rental Service. A responsive booking website for a chair rental business. It checks chair availability by date, calculates the price live, validates bookings, and includes an owner view to confirm or cancel requests. Built with HTML, CSS, and JavaScript.',
         image: 'website project.png',
         alt: 'Chair Rental System dashboard',
-        link: 'https://github.com/Marc-Erick-Zaldo/Personal-Finance-Tracker'
+        link: 'https://marc-erick-zaldo.github.io/Chair-Rental-System/'
     }
 
 
